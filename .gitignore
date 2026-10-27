@@ -1,1 +1,8 @@
 .godot/
+*.translation
+
+# Build outputs
+build/
+bin/
+*.exe
+*.pck
